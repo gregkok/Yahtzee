@@ -1,0 +1,19 @@
+h1 {
+    color: black;
+}
+thead {
+    border: 2px color black;
+}
+.lightgreen {
+    background-color: #adddb0;
+}
+.even {
+    background-color: #ddf0de
+}
+.results {
+    background-color: #ececb8
+}
+input{
+    width: 30px;
+    align-content: center;    
+}
