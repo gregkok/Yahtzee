@@ -17,3 +17,6 @@ input{
     width: 30px;
     align-content: center;    
 }
+table{
+    border: 1px solid black;
+}
